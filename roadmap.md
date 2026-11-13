@@ -1,0 +1,2 @@
+- [ ] Build the news text signal checker, sample text controls, CSV batch view, model notes, and required credit.
+- [ ] Verify prediction labels, quoted CSV parsing, and the rendered home screen.
